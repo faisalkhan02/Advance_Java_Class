@@ -1,0 +1,13 @@
+package Unit_1;
+
+interface OneParameter{
+    public int display(int x);
+}
+
+public class A2_Lambda_1Perameter {
+    public static void main(String[] args) {
+        OneParameter n = a -> a*a;
+
+        System.out.println("Square: "+n.display(4));
+    }
+}
