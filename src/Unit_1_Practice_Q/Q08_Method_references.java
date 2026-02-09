@@ -13,7 +13,7 @@ class Greeter{
     }
 
 }
-public class Q8_Method_references {
+public class Q08_Method_references {
     public static void main(String[] args) {
         Greeter g =new Greeter();
 

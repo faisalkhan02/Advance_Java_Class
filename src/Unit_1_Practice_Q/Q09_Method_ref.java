@@ -7,7 +7,7 @@ Then, use the method reference String::length to implement this interface.
 interface MyInterface2{
    int calculate(String name);
 }
-public class Q9_Method_ref {
+public class Q09_Method_ref {
     public static void main(String[] args) {
         MyInterface2 mn = String::length;
 

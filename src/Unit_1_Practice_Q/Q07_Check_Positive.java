@@ -6,7 +6,7 @@ Write a lambda expression that implements IsPositive and returns true if the int
 interface IsPositive{
     boolean check(int x);
 }
-public class Q7_Check_Positive {
+public class Q07_Check_Positive {
     public static void main(String[] args) {
         IsPositive c = x -> (x>=0) ? true : false;
 

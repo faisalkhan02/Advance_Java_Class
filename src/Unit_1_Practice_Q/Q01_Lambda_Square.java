@@ -7,7 +7,7 @@ Write a lambda expression to implement the MathOperation functional
 interface MathOperation{
     public int display(int x);
 }
-public class Q1_Lambda_Square {
+public class Q01_Lambda_Square {
     public static void main(String[] args) {
         MathOperation mo = x -> x*x;
 

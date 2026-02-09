@@ -6,7 +6,7 @@ Write a lambda expression that takes no arguments and returns the string "Hello 
 interface Greet{
     String print();
 }
-public class Q6_No_Argument {
+public class Q06_No_Argument {
     public static void main(String[] args) {
         Greet g = () -> "Hello Lambda";
 

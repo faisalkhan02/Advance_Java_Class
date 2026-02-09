@@ -7,7 +7,7 @@ Write a lambda expression to find the maximum of two numbers.
 interface Maximum{
     int findMax(int x,int y);
 }
-public class Q2_Maximum {
+public class Q02_Maximum {
     public static void main(String[] args) {
 
 //        Maximum m = (x,y) -> (x>y) ? x :y;
