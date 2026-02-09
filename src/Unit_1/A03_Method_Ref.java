@@ -11,7 +11,7 @@ interface Int2{
 interface Int3{
     String print(String s);
 }
-public class A3_Method_Ref {
+public class A03_Method_Ref {
     public static void main(String[] args) {
         Int2  i2 = String :: length;
         Int3 i3 = String ::toUpperCase;

@@ -5,7 +5,7 @@ interface noparameter{
     String display();
 
 }
-public class A1_LambdaExpression {
+public class A01_LambdaExpression {
     public static void main(String[] args) {
 //                noparameter n = () -> {
 //                    System.out.println("hello");
