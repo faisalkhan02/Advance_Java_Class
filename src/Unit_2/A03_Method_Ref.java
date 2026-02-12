@@ -1,6 +1,4 @@
-package Unit_1;
-
-import org.w3c.dom.ls.LSOutput;
+package Unit_2;
 
 interface Int1{
     void show();

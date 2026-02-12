@@ -1,4 +1,4 @@
-package Unit_1_Practice_Q;
+package Unit_2_Practice_Q;
 
 interface CheckGreaterOf10{
     boolean check(int x);

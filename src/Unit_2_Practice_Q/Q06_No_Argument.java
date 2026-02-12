@@ -1,4 +1,4 @@
-package Unit_1_Practice_Q;
+package Unit_2_Practice_Q;
 /*
 Write a lambda expression that takes no arguments and returns the string "Hello Lambda!".
  */

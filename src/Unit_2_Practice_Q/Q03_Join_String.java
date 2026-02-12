@@ -1,4 +1,4 @@
-package Unit_1_Practice_Q;
+package Unit_2_Practice_Q;
 
 /*
 Use a lambda to join two strings.

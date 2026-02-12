@@ -1,4 +1,4 @@
-package Unit_1;
+package Unit_2;
 
 interface OneParameter{
     public int display(int x);

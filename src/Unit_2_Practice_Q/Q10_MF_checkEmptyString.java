@@ -1,4 +1,4 @@
-package Unit_1_Practice_Q;
+package Unit_2_Practice_Q;
 /*
 Write a method reference to check if a string is empty using String class.
  */

@@ -1,4 +1,4 @@
-package Unit_1_Practice_Q;
+package Unit_2_Practice_Q;
 // Create a interface MathUtil with static methods and use method reference to:
 // add numbers
 // find maximum
