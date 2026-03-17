@@ -11,7 +11,7 @@ class B extends A{      // Single Inheritance
     }
 }
 
-class C extends B{
+class C extends B{      //Multilevel Inheritance
     void check(){
         System.out.println("Child class C");
     }
