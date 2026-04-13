@@ -34,7 +34,7 @@ public class A04_Scrolls {
 
             System.out.println("==== nth position ====");
 
-            rs.absolute();
+            rs.absolute(5);
             while(rs.previous()){
                 System.out.println(rs.getInt("id") + "  "+ rs.getString("name"));
             }
